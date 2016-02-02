@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Moar gifz
 ---
 
 # My Gif Collection
