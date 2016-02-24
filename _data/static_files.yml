@@ -506,6 +506,9 @@
 - path: facepalm/cosby-facepalm.gif
   modified_time: 1454428274
   extname: .gif
+- path: facepalm/large-group-facepalm.gif
+  modified_time: 1455827126
+  extname: .gif
 - path: facepalm/picard-facepalm-o.gif
   modified_time: 1454428274
   extname: .gif
@@ -901,6 +904,9 @@
   extname: .gif
 - path: laughing/muppets-laugh.gif
   modified_time: 1454428276
+  extname: .gif
+- path: lol/Future-is-now.gif
+  modified_time: 1456080064
   extname: .gif
 - path: lol/harry-lol.gif
   modified_time: 1454428276
